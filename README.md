@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Elie Attali
 
-<!--
-**Mc3li3/Mc3li3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist & AI Engineer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Passionate about **AI, machine learning, and quantitative modeling**.  
+Currently at ENSAE Paris, I build real-world AI systems — from LLM-powered chatbots to debiased transformers and actuarial survival models.
+
+
+### Tools I love
+
+**ML / AI**  
+Python • PyTorch • scikit-learn • pandas • NumPy • Hugging Face • Azure OpenAI
+
+**Systems & Data**  
+C++ • C • OCaml • Java • SQL • R • SAS • MongoDB
+
+**Tools & Others**  
+Git • GitHub Actions • Multi-threading • JS/TS • HTML-CSS
+
+---
+
+*Always learning, always building.*
