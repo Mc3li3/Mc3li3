@@ -10,7 +10,7 @@ Passionate about **AI, machine learning, and quantitative modeling**.
 Currently at **ENSAE Paris**, I build real-world AI systems, from LLM-powered chatbots to debiased transformers and actuarial survival models.
 
 
-## 🛠️ Tools I love
+## 🛠️ Tools I like
 
 ### 🤖 ML / AI
 <p>
