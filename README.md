@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Elie%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header banner with greeting"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Quantitative+Modeler;ENSAE+Paris+Student;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
