@@ -13,10 +13,6 @@
 > Passionate about **AI, machine learning, and quantitative modeling**.  
 > Currently at **ENSAE Paris**, I build real-world AI systems — from LLM-powered chatbots to debiased transformers and actuarial survival models.
 
-- 🔭 I'm currently working on **AI systems & quantitative models**
-- 🌱 I'm diving deeper into **LLMs, transformers, and survival analysis**
-- ⚡ Fun fact: I love bridging the gap between **math, stats, and engineering**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -61,12 +57,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mc3li3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mc3li3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mc3li3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
