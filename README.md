@@ -1,9 +1,3 @@
-# 👋 Elie Attali
-
-**Data Scientist & AI Engineer**  
-
----
-
 ### About Me
 
 Passionate about **AI, machine learning, and quantitative modeling**.  
