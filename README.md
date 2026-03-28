@@ -4,14 +4,11 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
 > Passionate about **AI, machine learning, and quantitative modeling**.  
 > Currently at **ENSAE Paris**, I build real-world AI systems, from LLM-powered chatbots to debiased transformers and actuarial survival models.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,11 +43,3 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner"/>
-
-</div>
